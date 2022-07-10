@@ -86,7 +86,7 @@ The main agenda of this project is:
 
 ## Bug / Feature Request
 
-If you find a bug (the web app couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/ktarun1681/zomato-ratings-prediction/issues) here by including your search query and the expected result
+If you find a bug (the web app couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Priya-38/zomato-ratings-prediction/issues/new) here by including your search query and the expected result
 
 ## Future Scope
 
